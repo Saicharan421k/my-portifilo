@@ -1,4 +1,4 @@
-# **For Demo Press The Link http://127.0.0.1:5500/project1/index.html**
+# **https://saicharan421k.github.io/my-portifilo-using-html-css-js/**
 
 **first go through index.html**
 
