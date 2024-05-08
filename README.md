@@ -1,6 +1,6 @@
 # **For Demo Press the link**
 
-# **https://saicharan421k.github.io/my-portifilo-using-html-css-js/**
+# **https://saicharan421k.github.io/my-portifilo/**
 
 **first go through index.html**
 
